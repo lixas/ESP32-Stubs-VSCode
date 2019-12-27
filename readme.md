@@ -1,0 +1,1 @@
+based on https://github.com/Josverl/micropython-stubber but manualy added documentation so VSCode Intellisense 
