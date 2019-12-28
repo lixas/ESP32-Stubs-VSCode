@@ -40,3 +40,38 @@ class array:
         """
         pass
 
+class uarray:
+    """
+    Create array with elements of given type. Initial contents of the array are given by iterable. If it is not provided, an empty array is created.
+    
+    """
+
+    def append(self, val):
+        """
+        Append new element val to the end of array, growing it.
+
+        Parameters
+        ----------
+        - val : new element to append
+
+        http://docs.micropython.org/en/latest/library/uarray.html#uarray.array.append
+
+        """
+
+        pass
+
+    def decode(self):
+        pass
+
+    def extend(self, val):
+        """
+        Append new elements as contained in iterable to the end of array, growing it.
+
+        Parameters
+        ----------
+        - val : new element to append
+
+        http://docs.micropython.org/en/latest/library/uarray.html#uarray.array.extend
+
+        """
+        pass
